@@ -1,6 +1,6 @@
 # SiteDeLinks
 
-##:sparkles: Sobre o projeto:
+###:sparkles: Sobre o projeto:
 <p align="center">Projeto feito na semana do Dev10k do Tulio Faria, criador da https://devpleno.com/  (SSR) - Server Side Rendering </p>
 
 ##:orange_book: Tecnologias

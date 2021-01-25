@@ -6,7 +6,7 @@
 <h3>:orange_book: Tecnologias</h3>
 <p align="center">Foi utilizado <b>Next</b> para rodar na porta 3000, <b>tailwind</b> para estilização, <b>React</b> para componetização, <b>Prismic.IO</b> para construção e edição e integração do site </p>
 
-<h4>##:japanese_goblin: Rodar o Projeto</h4>
+<h4>:japanese_goblin: Rodar o Projeto</h4>
 <p align="center">Para rodar o projeto, basta clonar com git clone `url do projeto`, e rodar npm install e npm dev </p>
 
 

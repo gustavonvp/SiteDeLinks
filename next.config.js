@@ -1,5 +1,5 @@
 module.exports = {
-  pageExtensions: ['mdx', 'md', 'jsx', 'js', 'tsx', 'ts'],
+  pageExtensions: ['page.tsx', 'page.ts', 'page.jsx', 'page.js'],
   webpack5: true,
   webpack: (config) => {
     config.resolve.fallback = { fs: false };

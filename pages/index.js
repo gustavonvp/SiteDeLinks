@@ -1,5 +1,5 @@
 import React from 'react'
-import Prismic from 'prismic-javascript'
+import Prismic from 'prismic.io'
 import Head from 'next/head'
 
 

@@ -82,11 +82,4 @@ jobs:
         with:
           path: ./out
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: 'site-de-links.vercel.app'
-    runs-on: ubuntu-latest
-    needs: build
 

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "v": "node -v",
     "dev": "next",
     "start": "SET NODE_OPTIONS=--openssl-legacy-provider && next start",
     "build": "SET NODE_OPTIONS=--openssl-legacy-provider && next build"
@@ -14,6 +15,7 @@
   "dependencies": {
     "autoprefixer": "^10.4.14",
     "next": "^12.0.5",
+    "node": "18.1.0",
     "postcss": "^8.4.25",
     "prismic-javascript": "^3.0.2",
     "react": "^16.13.1",

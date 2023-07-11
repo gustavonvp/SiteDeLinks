@@ -1,12 +1,12 @@
 import React, {useEffect} from 'react'
-import Prismic from 'prismic-javascript'
+import Prismic from 'prismic.io'
 import {useRouter} from 'next/router'
 import Head from 'next/head'
 
 const RedirectTo = () =>{
         const router = useRouter()
         useEffect(()=>{
-            setTimeout(()=>{
+            setTimeout(()=>{    
                 router.push("/")
             },2000)
         },[])

@@ -6,14 +6,11 @@
     },
 
     "functions": {
-        "pages/api/hello.js": {
-          "memory": 32,
-          "maxDuration": 10
-        },
-        "pages/api/index.js": {
-          "memory": 32,
-          "maxDuration": 10
+        "pages/api/*.js": {
+          "memory": 128,
+          "maxDuration": 5
         }
+
       }
       
   }

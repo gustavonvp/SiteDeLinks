@@ -86,7 +86,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: 'site-de-links.vercel.app'
     runs-on: ubuntu-latest
     needs: build
     steps:

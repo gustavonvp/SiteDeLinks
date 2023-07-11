@@ -7,8 +7,7 @@
     "v": "node -v",
     "dev": "next",
     "start": "next start",
-    "build": "next build",
-    "vercel-build": "node ./pages/build.js"
+    "build": "next build"
   },
   "keywords": [],
   "author": "",

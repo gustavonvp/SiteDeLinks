@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import Prismic from 'prismic.io'
+import Prismic from 'prismic-javascript'
 import {useRouter} from 'next/router'
 import Head from 'next/head'
 

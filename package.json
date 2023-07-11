@@ -8,7 +8,7 @@
     "dev": "next",
     "start": "next start",
     "build": "next build",
-    "vercel-build": "node ./pages/[slug].js"
+    "vercel-build": "node ./pages/api/index.js"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +18,8 @@
     "next": "^12.0.5",
     "node": "18.1.0",
     "postcss": "^8.4.25",
-    "prismic-javascript": "^3.0.2",
+    "prismic-javascri pt": "^3.0.2",
+    "prismic.io": "^3.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwindcss": "^3.3.2"
